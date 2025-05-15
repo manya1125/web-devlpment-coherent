@@ -1,0 +1,29 @@
+Answer 1:-
+A Version Control System (VCS) solves several problems related to managing changes in source code over time.It allows multiple 
+developers to work on a project simultaneously
+Answer 2:-
+In a CVCS, there is a single central repository that stores all the versioned files whereas In a DVCS, every developer has a 
+complete copy of the repository, including its history, on their local machine. 
+Answer 3:-
+Git is a distributed version control system that allows developers to track changes in source code during software development.on 
+other hand,git hub is a web-based platform that uses Git for version control and provides additional features such as issue 
+tracking, project management, and collaboration tools. 
+Answer 4:-
+When a developer makes changes to files, they can add those changes to the staging area using the git add command
+Answer 5:-
+The .git folder is a hidden directory.It contains all the metadata and objects necessary for version control.
+Answer 6:-
+Git branching is a feature that allows developers to create separate lines of development within a repository
+for creating new branch:- git branch <branch-name>
+for switching to another branch:- git checkout <branch-name>
+Answer 7:-
+git reset is used to move the current branch pointer to a specified commit.git reset --hard also moves 
+the current branch pointer to a specified commit, but it resets both the staging area and the working directory to match that commit. 
+Answer 8:-
+A squash merge is a type of merge that combines all the changes from a feature branch into a single commit before merging
+it into the main branch.
+Answer 9:-
+git rebase is a command that allows you to integrate changes from one branch into another
+Example:- consider a scenario where you have a main branch called main and a feature branch called feature. While you were
+working on the feature branch, new commits were added to the main branch. To incorporate those changes into your feature branch, 
+syou can use git rebase

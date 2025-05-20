@@ -1,0 +1,2 @@
+const str ="AlphaIntern";
+const startWithAlpha =str.startsWith("Alpha")

@@ -1,0 +1,2 @@
+const str ="I am a Backend Developer"
+const containsBackend =str.includes("Backend")

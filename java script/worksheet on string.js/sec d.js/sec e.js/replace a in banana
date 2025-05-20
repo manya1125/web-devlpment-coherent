@@ -1,0 +1,2 @@
+const str ="banana"
+constreplaceStr=str.replaceAll("a","z")

@@ -1,0 +1,2 @@
+const str=" Javascript is awesome"
+const trimmedstr = str.trim()
